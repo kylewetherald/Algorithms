@@ -1,0 +1,1 @@
+Compile and run TestLCS.java to test my LCS() function.

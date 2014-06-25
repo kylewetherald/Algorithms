@@ -1,0 +1,1 @@
+to run, add number of cities as a command line argument

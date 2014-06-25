@@ -1,0 +1,1 @@
+To test my code, compile and run ClothCutterTester.java
